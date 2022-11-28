@@ -21,3 +21,5 @@
 * `python setup.py install`
 
 ## Option 2: [Colab](https://colab.research.google.com/)
+Sherpa may not work on windows system. In that case, one can use colab option.
+Copy [manipal_workshop_x_ray_colab](https://drive.google.com/drive/folders/1SAFvoh_9e49i5gb3PGtyfEWBfdvmaILk?usp=sharing) folder to your Google Drive.
