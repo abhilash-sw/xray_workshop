@@ -1,4 +1,4 @@
-# X-ray Data Analysis - Aditya Workshop (Manipal)
+# X-ray Data Analysis - Aditya Workshop
 
 ## Setting up necessary software
 
